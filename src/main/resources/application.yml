@@ -1,0 +1,14 @@
+spring:
+  h2:
+    console:
+      enebled: true
+  mvc:
+    pathmatch:
+      matching-strategy: ant-path-matcher
+
+
+server:
+  port : 8080
+
+orders:
+  minutes-till-cancel: 30
