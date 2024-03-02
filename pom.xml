@@ -16,7 +16,7 @@
 	<properties>
 		<java.version>17</java.version>
 		<org.mapstruct.version>1.5.1.Final</org.mapstruct.version>
-		<shedlock-spring.version>4.36.0</shedlock-spring.version>
+		<shedlock-spring.version>4.47.0</shedlock-spring.version>
 		<springfox.version>2.9.2</springfox.version>
 	</properties>
 	<dependencies>
